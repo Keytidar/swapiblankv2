@@ -1,0 +1,13 @@
+.join-banner {
+  position: relative;
+  background-image: url(/assets/join1a079cc6d5147b4d7183.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 74rem;
+}
+
+.join-text {
+  position: absolute;
+  margin-top: 10rem;
+  margin-left: 5rem;
+}
